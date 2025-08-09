@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lineage Icon Pack"
+rootProject.name = "Glacier Icon Pack"
 include(":app")

@@ -355,6 +355,90 @@
         component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
         drawable="contacts" />
     <item
+        component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.Mail}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.lge.email/com.lge.email.activity.AccountList}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.motorola.motoemail/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.lenovo.email/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.tct.email/com.tct.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.motorola.email/com.android.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.mobimail.zte/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.android.email/com.android.email.MainActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.android.email/com.amazon.email.activity.EmailActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.AutoSendActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.GmailActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ComposeActivityGmail}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.MailboxSelectionActivity}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail}"
+        drawable="mail" />
+    <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
         drawable="dialer" />
     <item
@@ -763,6 +847,9 @@
         component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}"
         drawable="camera" />
     <item
+        component="ComponentInfo{org.lineageos.aperture/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
         component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}"
         drawable="camera" />
     <item
@@ -871,7 +958,7 @@
         component="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}"
         drawable="camera" />
     <item
-        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraActivity}"
+        component="ComponentInfo{org.lineageos.aperture/com.android.camera.CameraActivity}"
         drawable="camera" />
     <item
         component="ComponentInfo{com.myos.camera/com.myos.camera.CameraLauncher2}"
@@ -1189,6 +1276,9 @@
         component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}"
         drawable="files" />
     <item
+        component="ComponentInfo{com.termux/.app.TermuxActivity}"
+        drawable="terminal" />
+    <item
         component="ComponentInfo{org.lineageos.jelly/.MainActivity}"
         drawable="browser" />
     <item
@@ -1219,7 +1309,7 @@
         component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}"
         drawable="gallery" />
     <item
-        component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}"
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.app.Gallery}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}"
@@ -1717,6 +1807,12 @@
         component="ComponentInfo{com.cyanogenmod.eleven/org.lineageos.eleven.ui.activities.HomeActivity}"
         drawable="music" />
     <item
+        component="ComponentInfo{org.lineageos.twelve/org.lineageos.twelve.MainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.MainActivity}"
+        drawable="gallery" />
+    <item
         component="ComponentInfo{com.pantech.app.music/com.pantech.app.music.library.MusicLibraryTabHost}"
         drawable="music" />
     <item
@@ -1823,6 +1919,9 @@
         drawable="music" />
     <item
         component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{org.lineageos.twelve/org.lineageos.twelve.ui.activities.HomeActivity}"
         drawable="music" />
     <item
         component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}"
@@ -2014,6 +2113,30 @@
         component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}"
         drawable="calculator" />
     <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.samsung.downloadpage/com.android.samsung.downloadpage.DownloadPage}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadListUI}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}"
+        drawable="terminal" />
+    <item
         component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}"
         drawable="recorder" />
     <item
@@ -2170,10 +2293,16 @@
         component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}"
         drawable="calendar" />
     <item
+        component="ComponentInfo{org.lineageos.etar/org.lineageos.etar.LaunchActivity}"
+        drawable="calendar" />
+    <item
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.activities.MainActivity}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}"
@@ -2231,6 +2360,41 @@
         drawable="recorder" />
     <item
         component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.MainActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.etar/com.android.calendar.LaunchActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.LaunchActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CaptureActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/.MainActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}"
+        drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CaptureActivity}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.VideoCamera}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.SecureCameraActivity}" drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/.CaptureActivity}"
         drawable="camera" />
     <item
         component="ComponentInfo{com.maxmpz.equalizer/com.maxmpz.equalizer.rounded_play_mu}"

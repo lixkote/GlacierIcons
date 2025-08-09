@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.MainActivity}"
+        drawable="camera" />
+    <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
         drawable="sim_toolkit" />
     <item
@@ -75,6 +78,9 @@
     <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkMainActivity}"
         drawable="sim_toolkit" />
+    <item
+        component="ComponentInfo{org.lineageos.twelve/org.lineageos.twelve.ui.activities.HomeActivity}"
+        drawable="music" />
     <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2ForCU}"
         drawable="sim_toolkit" />
@@ -730,6 +736,15 @@
         component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}"
         drawable="messages" />
     <item
+        component="ComponentInfo{org.lineageos.etar/org.lineageos.etar.LaunchActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.lineageos.etar/org.lineageos.etar.MainActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}"
+        drawable="ic_camera" />
+    <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="calendar" />
     <item
@@ -847,6 +862,9 @@
         component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}"
         drawable="camera" />
     <item
+        component="ComponentInfo{org.lineageos.aperture/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
         component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}"
         drawable="camera" />
     <item
@@ -955,7 +973,7 @@
         component="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}"
         drawable="camera" />
     <item
-        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraActivity}"
+        component="ComponentInfo{org.lineageos.aperture/com.android.camera.CameraActivity}"
         drawable="camera" />
     <item
         component="ComponentInfo{com.myos.camera/com.myos.camera.CameraLauncher2}"
@@ -1306,7 +1324,7 @@
         component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}"
         drawable="gallery" />
     <item
-        component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}"
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.app.Gallery}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}"
@@ -1804,6 +1822,15 @@
         component="ComponentInfo{com.cyanogenmod.eleven/org.lineageos.eleven.ui.activities.HomeActivity}"
         drawable="music" />
     <item
+        component="ComponentInfo{com.lineageos.twelve/.MainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{org.lineageos.twelve/org.lineageos.twelve.MainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.MainActivity}"
+        drawable="gallery" />
+    <item
         component="ComponentInfo{com.pantech.app.music/com.pantech.app.music.library.MusicLibraryTabHost}"
         drawable="music" />
     <item
@@ -2281,10 +2308,16 @@
         component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}"
         drawable="calendar" />
     <item
+        component="ComponentInfo{org.lineageos.etar/org.lineageos.etar.LaunchActivity}"
+        drawable="calendar" />
+    <item
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{org.lineageos.glimpse/org.lineageos.glimpse.activities.MainActivity}"
         drawable="gallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}"
@@ -2342,6 +2375,9 @@
         drawable="recorder" />
     <item
         component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraActivity}"
         drawable="camera" />
     <item
         component="ComponentInfo{com.maxmpz.equalizer/com.maxmpz.equalizer.rounded_play_mu}"

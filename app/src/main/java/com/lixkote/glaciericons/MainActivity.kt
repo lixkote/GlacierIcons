@@ -1,4 +1,4 @@
-package com.wstxda.lineageicons
+package com.lixkote.glaciericons
 
 import android.app.Activity
 

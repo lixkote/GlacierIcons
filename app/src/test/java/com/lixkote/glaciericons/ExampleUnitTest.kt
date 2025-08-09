@@ -1,4 +1,4 @@
-package com.wstxda.lineageicons
+package com.lixkote.glaciericons
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
