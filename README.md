@@ -1,2 +1,2 @@
 # GlacierIcons
-LineageOS icons but fluent &amp; 3D
+LineageOS icons but with a little twist
